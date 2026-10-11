@@ -1,0 +1,20 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de node js",
+  "homepage": "https://github.com/RedFer855/guia-hoteles#readme",
+  "bugs": {
+    "url": "https://github.com/RedFer855/guia-hoteles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedFer855/guia-hoteles.git"
+  },
+  "license": "ISC",
+  "author": "Fernando Barahona",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
